@@ -1,0 +1,25 @@
+.img {
+    
+    padding-left: 280px;}
+.head{
+  width: 40%;
+  margin-right: auto;
+  margin-left:auto ;
+}
+h1{
+    padding-left: 200px;
+
+}
+
+.card-main{
+    margin-right: auto;
+    margin-left:auto ;
+}
+
+.card-first{
+    border-top: 1px solid rgb(61, 137, 187);
+}
+
+.header{
+    color: brown;
+}
